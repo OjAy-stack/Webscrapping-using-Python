@@ -5,7 +5,7 @@
 ## Introduction & Objectives
 Jumia is one of Africa’s leading e-commerce platforms, offering a wide range of products including household appliances. Gaining insights into the pricing and product details listed on Jumia can be invaluable for market analysis, competitive benchmarking, and consumer decision-making.
 
-This project demonstrates a simple scraping of appliance names and prices from the Jumia Appliances page and saving as a csv file using Python. By analysing the extracted data, we can identify pricing trends, understand product availability, and evaluate the competitive positioning of various appliances on the platform.
+This project demonstrates a simple scraping of appliance names and prices from the Jumia Appliances page and then exporting as a csv file using Python. By analysing the extracted data, we can identify pricing trends, understand product availability, and evaluate the competitive positioning of various appliances on the platform.
 
 ### Key Objectives:
 - Extract product names and prices for appliances on the Jumia platform.
@@ -55,7 +55,7 @@ Appliance Name - Price
 - Demonstrated how web scraping techniques can simplify market research and data collection.
 
 ## Limitations
-- **Static HTML Dependency**: The script relies on the static structure of the webpage. Any changes to the HTML may require code adjustments.
+- **Static HTML Dependency**: The script relies on the static structure of the webpage. If there is any changes to the HTML, the code may adjustments.
 - **Single Page Scraping**: Currently, the script scrapes only the first page of results.
 
 ## Acknowledgements
