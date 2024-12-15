@@ -50,6 +50,8 @@ This project addresses the following questions:
 ```plaintext
 Appliance Name - Price
 ```
+### Export Data to CSV
+The script also saves the scraped data (product names and prices) into a CSV file for future analysis or storage. 
 
 ## Key Insight
 - Demonstrated how web scraping techniques can simplify market research and data collection.
