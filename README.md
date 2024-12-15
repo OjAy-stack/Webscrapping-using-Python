@@ -1,3 +1,5 @@
+![Jumia Logo]([https://1.bp.blogspot.com/-3yr6lXiWQ_k/VfAwsiQ6hFI/AAAAAAAAAi8/rlOfxY02MIU/s1600/Jumia%2BLogo.png])
+
 # Jumia Appliances Web Scraping Project
 
 ## Introduction & Objectives
